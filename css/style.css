@@ -1,0 +1,18 @@
+.heading1{
+    background-color: blanchedalmond;
+    
+}
+
+#para{
+    background-color: thistle;
+    padding: 20px;
+    margin: 20px;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2667.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
